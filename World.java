@@ -1,4 +1,4 @@
-Public class World{
+Public class world{
   public static void main(String[] args){
     System.out.print(a);   
   }
